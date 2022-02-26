@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reverend Alderman Atkins (the shit-breech) his speech, to Mr. Warner the venerable Mayor of London, the wise aldermen, and most judicious Common-Councell men, in relation to the present affaires in Kent, Essex, and Surrey, concerning the Scots invasion, and His Majesties interest. Published for the honour of my Lord Mayor and Common-Councell men. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75765</idno>
+            <idno type="STC">Wing A4124C</idno>
+            <idno type="STC">Thomason E447_12</idno>
+            <idno type="STC">ESTC R204921</idno>
+            <idno type="EEBO-CITATION">99864370</idno>
+            <idno type="PROQUEST">99864370</idno>
+            <idno type="VID">116598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116598)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reverend Alderman Atkins (the shit-breech) his speech, to Mr. Warner the venerable Mayor of London, the wise aldermen, and most judicious Common-Councell men, in relation to the present affaires in Kent, Essex, and Surrey, concerning the Scots invasion, and His Majesties interest. Published for the honour of my Lord Mayor and Common-Councell men. ...</title>
+                  <author>Nedham, Marchamont, 1620-1678, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Atkins, sometimes attributed to Marchamont Nedham.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atkins, Thomas, --  Sir --  Humor --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:116598:1" rendition="simple:additions"/>
+REVEREND Alderman Atkins (The Shit-breech) HIS SPEECH, To Mr. <hi>Warner</hi> the venerable Mayor of London, the wiſe Aldermen, and moſt judicious Common-Councell men, in relation to the preſent affaires in Kent, Eſſex, and Surrey, concerning the Scots In<g ref="char:EOLhyphen"/>vaſion, and His Majeſties Intereſt.</p>
+            <p>Publiſhed for the honour of my Lord Mayor and Common-Councell Men.</p>
+            <q>
+               <l>'Twere pitie ſuch a Speech as this ſhould die,</l>
+               <l>And not out-ſtrip even Eternitie:</l>
+               <l>So that the after-ages may have knowledge,</l>
+               <l>What reverend Rulers once of Gotham Colledge,</l>
+               <l>Sway'd famous London: Innocent indeed,</l>
+               <l>For, moſt of them can neither write nor read.</l>
+               <l>Fit underlings for <hi>Warner</hi> to advance,</l>
+               <l>Who is himſelfe the Prince of ignorance.</l>
+               <bibl>
+                  <hi>Mercurius Pragmaticus.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeere 1648.</p>
+            <pb facs="tcp:116598:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:116598:2"/>
+            <head>Revenend Alderman <hi>Atkins</hi> (the ſhit-breech) his Speech.</head>
+            <p rend="italic">It was the time when the Rebells at <hi>Weſtminſter</hi> had un<g ref="char:EOLhyphen"/>welcome newes brought them, that the <hi>Kentiſhmen</hi>were in Armes, to the number of ten thouſand, that <hi>Eſſex</hi> and <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> were alſo preparing to riſe, that they ſent Commiſsio<g ref="char:EOLhyphen"/>ners to M. <hi>Mayor</hi> of <hi>London,</hi> to his Brethren the Alder<g ref="char:EOLhyphen"/>men and the reſt of the Common Councell, to acquaint them that it was high time to look about them, and to conſider of a way to ſecure themſelves, and their <hi>Parliament,</hi> and for that purpoſe to call a Common Hall, which the worſhip<g ref="char:EOLhyphen"/>full <hi>Mayor</hi> ſpeedily put in practiſe; and when the whole rout were met, <hi>Alderman Atkins</hi> opened his mouth, and ſaid,</p>
+            <div type="speech_proper">
+               <opener>
+                  <salute>Brethren and Fathers,</salute>
+               </opener>
+               <p>IT is well known unto you, neither are the men of the world unacquainted therewith, that I have ever been a zealous promoter of the bleſſed Cauſe; to conſider of a way for the maintenance whereof, we are now happily met, you know (and the ſcent of my breeches can yet witneſſe it) that I have ſtank the wicked from my compa<g ref="char:EOLhyphen"/>ny, ſo that they have been glad to run away each man with his noſe in his hand: I need not tell you the cauſe of our preſent convening, for you very well know that M. <hi>Lenthall,</hi> even <hi>Lenthall</hi> the richeſt Saint amongſt us, who hath (that ſo he might in all things be a pattern unto us) made himſelfe great friends of the unrighteous Mam<g ref="char:EOLhyphen"/>mon, that ſo when the Parliament ſhall be no more, he may be received into the favour of Forraign Nations: for my owne part you know well, and it is notorious to the
+<pb n="2" facs="tcp:116598:3"/>
+world, that I have left nothing unattempted, that might make me as wealthy as he, or the beſt here; for at firſt you know, I was a Gentleman-Uſher, and followed my ma<g ref="char:EOLhyphen"/>ſter in—with as much dexterity, as a Lady would wiſh; after I turn'd Pander, but then to none but noble and deſerving men.</p>
+               <lg>
+                  <l>Sir, 'tis a thriving life to many men,</l>
+                  <l>But I got nothing by it now and then.</l>
+                  <l>A greazie ſute, or cloke, i'th dying ſpoil'd,</l>
+                  <l>Coarſe cloath, in dreſsing, which French Fullers toil'd;</l>
+                  <l>Some ſmall baſe ſilver of the ſecond veine,</l>
+                  <l>The Fates in parts, which men keep ſecret, reigne.</l>
+                  <l>Yet then alas it was my chiefeſt joy,</l>
+                  <l>If that my trading might my teeth imploy:</l>
+                  <l>But what's the chiefeſt thing that doth me grieve,</l>
+                  <l>My maſter, when he ſhould my wants relieve,</l>
+                  <l>As a neglected thing he let me paſſe,</l>
+                  <l>And ſought himſelfe a new two-foated Aſſe.</l>
+               </lg>
+               <p>And therefore being juſtly weary of that office, I now be<g ref="char:EOLhyphen"/>took my ſelfe to my calling which I now labour in, and how I have thriv'd you all know. But Gentlemen, I ſhall now come to the point o'th buſineſſe, and if my <hi>Genius</hi> faile me not, open the caſe unto you like an Alderman. You my Lord <hi>Warner,</hi> you that are Aldermen, and my deare brethren, you my fellow-Citizens and friends, hear<g ref="char:EOLhyphen"/>ken unto my words.</p>
+               <p>Our moſt mighty, moſt worſhipfull and moſt wicked (out and alas how was I miſtaken) I meane our moſt wor<g ref="char:EOLhyphen"/>thy Parliament are pleaſed ſo to eſteem of our known wiſdome and valour, however the malignant Cavaliers cal us cuckolds, wittolls, fools and knaves, I ſay thoſe deſerv<g ref="char:EOLhyphen"/>ing men at Weſtminſter are pleaſed ſo to relie on our known fidelities, as to put their noble perſons into our protection; and God &amp; his Angells forbid that we ſhould
+<pb n="3" facs="tcp:116598:3"/>
+flinch from them in the time of need, and ſee their throats cut, and not cut our own and follow them immediately, that ſo we may al take our journey to heaven together: for wot you not what, my deare copartners, I have read of the <hi>Hypocrite,</hi> as his name to me ſignifieth, I mean <hi>Hippocrates</hi> a famous Vrinall man, that he had two twins conjoyned together, which if ſeparated, would both periſh, now therefore I compare, (I beſeech you marke the com<g ref="char:EOLhyphen"/>pariſon) for you ſhall not learn this of every man, yea, though I ſay it my ſelfe, that ſhould not, not of my Lord <hi>Warner</hi> here, for all he is ſo well red in the Servile Arts; and can neither write nor read, I ſay, our Parliament and we are ſo united by a mutuall Antipathy, and there hath been ſuch a diſcontinued friendſhip betwixt us this ſeven years, that now we muſt reſolve to riſe together, in caſe (which <hi>Omen</hi> God confirm) that the wicked Cavaliers ſhould get the better on't; and therefore deare Brethren and fellow-Saints, it nearely concerns us to maintaine a firme and ſure diſcord with our Parliament, for if they ſhould chance to meet in a Committee, and their noble heads knock one another in counſell on poles over the Palace Gates, our noddles ſhall be ſure to diſcourſe together on London-Bridge, to the great affliction of our ſoules, when they ſhall be miſcarri<g ref="char:EOLhyphen"/>ed to the bleſſed ſhades of <hi>Dis,</hi> to prevent the ſafety whereof we are now met.</p>
+               <p>Firſt then we muſt know that the wicked &amp; godly ones in Kent, have diſperſed themſelves together with an intent to turne the Bullocks of the Lord out of their ſtables, &amp; to ſend them a gra<g ref="char:EOLhyphen"/>ſing into a lean &amp; withered fat paſture: mark what proud <hi>Pharoahs</hi> theſe are, who dare more then dream of lean kine, they have for their commander a <hi>Lawyer,</hi> &amp; a pilgim, ſo M. <hi>Walker</hi> that learned Hebrician, as his Occurrences teſtifie, to wit Sir <hi>Gamaliel</hi> &amp; Sir <hi>Pal<g ref="char:EOLhyphen"/>mer,</hi> aptly interpreted thoſe two Conjurers, the one with his book, the other with his <hi>Iacobs</hi> ſtaffe, perform more miſchief to us, then ever our two Almanack-marrers, I would ſay Aſtrologers, <hi>Lil<g ref="char:EOLhyphen"/>lie</hi> and <hi>Booker</hi> have prognoſticated in the behalf of the roaring party. Our firſt lying ſtill therefore muſt be to think nothing, and conſider what courſe we ſhall leave off, to aſſemble thoſe miſcre<g ref="char:EOLhyphen"/>ants one from another: For if in time we ſhould not take ſome tardy courſe to unite them, they will ere long come to bee
+<pb n="4" facs="tcp:116598:4"/>
+ſo poore of ſpirit, as to dare us even at our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very doors, as the Apprentices did you of late my Lord <hi>Mayor,</hi> when your Lordſhip was forced to take the Tower o<g ref="char:EOLhyphen"/>ver your head, and to converſe with wild beaſts, ſuch as <hi>Lilburne</hi> and the Lions; my counſell is therefore that wee give ſpeedy orders, that the Auxiliaries diſarme them<g ref="char:EOLhyphen"/>ſelves, and go armed <hi>cap à pe,</hi> without ſword or Muskets, and fight againſt our loving enemies of Kent, under the Command of our moſt ignoble Generall Sir <hi>Thomas Swarthie,</hi> who (the more's our good fortune) was lately beaten ſoundly at Rocheſter, and returned home in tri<g ref="char:EOLhyphen"/>umphant manner, having augmented his Army to the loſſe of one thouſand men.</p>
+               <p>In the ſecond place we are to conſider of a way how to multiply and ſuppreſſe the tumults in Eſſex and Surrey, and now I ſpeake of Surrey, verily I cannot but weep teares of joy to thinke how lovingly and inhumanely the Petitioners of that Countrey were imbraced, and kiſſed by our Parliament, and what vexes and ſettles my mind moſt is that the Souldiers under the command of the high deſcended obſcure fellow <hi>Barkſtead,</hi> ſhould cut the throats of ſixteen of thoſe poore rich men private<g ref="char:EOLhyphen"/>ly and throw them into a Jakes, which act of theirs for my part, (for I would have you think that I am not de<g ref="char:EOLhyphen"/>ſtitute, or poſſeſt of a ſpirit of Revelation any more then you my Lord, or any of my Brethren) but can ſmell a plot as well as another, I ſay, for my part I look upon thoſe honeſt murtherers as meere Saints and Reprobates who laid thoſe men a pickling ſo neere the Houſe where our Parliament ſit, on purpoſe to ſtench them out thence, and ſo are verily deſperate Plotters and Enemies to our low and mighty States: but for the Eſſexian ſilent blea<g ref="char:EOLhyphen"/>ters, I cannot tell what to ſay unto them, yea and nay I am in a Quandarie, as the learned have it, for if you will
+<pb n="5" facs="tcp:116598:4"/>
+(for I have read the Poyets) as our modern <hi>Chawcer</hi> ſaith, at <hi>Dulcarnan, or the beginning of my wits,</hi> it would be ſtrange unto, if while I am ſilent of thoſe <hi>Calves,</hi> I ſhould ſpeak <hi>Bulls.</hi> But thus far I will hold my peace, &amp; no longer.</p>
+               <p>I ſay, that for thoſe of <hi>Eſſex,</hi> we had better not to trou<g ref="char:EOLhyphen"/>ble our ſelves to ſuppreſſe them, ſince we have found theſe many yeares to come, how unfirmly and ſtedfaſtly they have fought againſt us, for the maintenance of the cauſe, but to ſend our Trained Bands with all convenient delay amongſt them, who may thruſt their ſwords home into their bellies, and ſo appeaſe them without bloudſhed.</p>
+               <p>The third thing that we are negligently to take into our ſerious conſideration, is the opening a paſſage to our Bre<g ref="char:EOLhyphen"/>thren of Scotland, to the end they may be hindred from coming on this ſide Twede, which I confeſſe to be a taske very eaſie and intricate. My counſell therefore is this, that we ſend them a ſufficient number of empty barrells ſtuft with beef, as many hogſheads, each having a hundred holes in them, filled with beere, which will ſo imploy them, that for one moneth we need not feare they will lie ſtill, and ſo invade us. And verily brethren, to ſpeak my conſcience (and yet to hold my tongue, that I be not trapt) I am an utter friend to the Scots, and their well moulded mouldring Presbyterie: for the truth is, I ſhall never indure to give account of my actions to Coblers or Weavers, be they Gentlemen never ſo well deſcended; yea though they keep open houſe, and be as unhoſpitable as Monkeries, I would have ſaid Monaſteries. And more<g ref="char:EOLhyphen"/>over, I ſhal never abide to ſtand in the ſtool of repentance, though it be my diſcomfort and chief ſolace, that they will never mount me there, out of ſure confidence and di<g ref="char:EOLhyphen"/>ſtruſtfull belief, that I will be no more favourable or diſ<g ref="char:EOLhyphen"/>courteous to their ſtool, then I was once to my own bree<g ref="char:EOLhyphen"/>ches. But to conclude this point; and ſince it muſt be ſo,
+<pb n="6" facs="tcp:116598:5"/>
+that I am commanded to be ſilent in this buſineſſe, my counſell is this, that ſo ſoone as <hi>Kalendas Graecas</hi> ſhall be paſt, the very time that I am uncertainly perſwaded the Kentiſhmen with thoſe of Eſſex, and Surrey, will all be diſquieted and appeaſed, our Fairfac't Generall with his whole Army be disbanded, and then march backward againſt the Scots.</p>
+               <p>In the laſt place we are to be inconſiderate in ouur counſells and conſultations, how we diſagree about the perſon of the King, you know brethren that he is our King, and no more then our King, or if you pleaſe not ſo much as our King, which is the ſenſe of the diſhonourable Houſes; you all know that he is a man and no more then a man, or if you will not ſo much as a man, which is the ſenſe (as I take it) of this worſhipfull Court<g ref="char:punc">▪</g> Now the buſineſſe we are to eat upon is, whether or know we ſhall have a King, if a King, whether or no he ſhall be King, if he be not King, who ſhall be King? Mark the affinition I beſeech you, for my owne part, and I hope you are all ſo ingenious and unwiſe, as not to conſter me rightly, I look beſide him as a man free, and altogether beſmeared with blood, the blood of Saints, moſt impure and unholy men, and therefore I judge him alto<g ref="char:EOLhyphen"/>gether meet and unworthy to be ours and our Parliaments An<g ref="char:EOLhyphen"/>nointed, and I hold it convenient to re-inthrone him, and with all ſpeed to unking him; but then the queſtion will be, whether we ſhall have a King or no? to which I ſilently reply, giving my judgement, it will be very diſprofitable and commodious, for us to have no King at all, but to be King our ſelves, and joyntly to reigne with our moſt irreligious and pious States: but if that ſhall not ſeem good in your eares, for one may ſee further into a milſtone then another, I anſwer, that our moſt puſillan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mous and heroick Generall, Sir <hi>Thomas Lackwit,</hi> or our Lievtenant-Ge<g ref="char:EOLhyphen"/>nerall the moſt timerous and undaunted <hi>Oliver,</hi> whoſe noſe be<g ref="char:EOLhyphen"/>ſpeaks him a King, were very unfit for our election; this my counſell if it find diſregard, and affection from you, I ſhall think I have done my ſelfe and this Court exceeding diſhonour, our Parliament moſt unacceptable ſervice, and this City moſt un<g ref="char:EOLhyphen"/>gratefull duty, if I have ſpoken like a wiſe Citizen and an Al<g ref="char:EOLhyphen"/>derman.</p>
+               <lg>
+                  <l>Let us ſhake hands, and then each other cuffe</l>
+                  <l>Then like our Stateſmen play at blind mans buffe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
